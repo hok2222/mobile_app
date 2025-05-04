@@ -28,5 +28,14 @@
             android:id="@+id/fragment_background"
             android:icon="@android:drawable/btn_star_big_on"
             android:title="@string/fon_fragment" />
+        <item
+            android:id="@+id/datchikFragment"
+            android:title="@string/str_datchik" />
+        <item
+            android:id="@+id/cameraFragment"
+            android:title="@string/str_camera" />
+        <item
+            android:id="@+id/audioFragment"
+            android:title="@string/str_audio" />
     </group>
 </menu>
