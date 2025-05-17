@@ -37,5 +37,13 @@
         <item
             android:id="@+id/audioFragment"
             android:title="@string/str_audio" />
+        <item
+            android:id="@+id/profile"
+            android:icon="@android:drawable/btn_plus"
+            android:title="@string/str_profile" />
+        <item
+            android:id="@+id/fileWork"
+            android:icon="@android:drawable/btn_minus"
+            android:title="@string/str_filework" />
     </group>
 </menu>
