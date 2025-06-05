@@ -45,5 +45,9 @@
             android:id="@+id/fileWork"
             android:icon="@android:drawable/btn_minus"
             android:title="@string/str_filework" />
+        <item
+            android:id="@+id/networkResourse"
+            android:icon="@drawable/common_full_open_on_phone"
+            android:title="@string/str_networkresources" />
     </group>
 </menu>

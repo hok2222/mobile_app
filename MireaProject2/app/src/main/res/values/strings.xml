@@ -19,8 +19,26 @@
     <string name="str_profile">Profile</string>
     <string name="str_filework">Working with files</string>
     <string name="str_fab">Выбрать</string>
+    <string name="str_networkresources">Network resources</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="image_view_description">SharshovImage</string>
     <string name="slavaboguantihaip">Слава Богу антихайп🙏❤️СЛАВА АНТИХАЙПУ🙏❤️рука🙏❤️нога🙏❤️голова🙏🏼❤️нос✊💯❤️🙏</string>
+    <string name="label_emailpassword">Email/Password Authentication</string>
+    <string name="desc_emailpassword">Use an email and password to authenticate
+with Firebase.</string>
+    <string name="hint_user_id">User ID</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="firebase_status_fmt">Firebase UID: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified:
+%2$b)</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+    <string name="error_sign_in_failed">Sign in failed, see logs for details.</string>
 </resources>

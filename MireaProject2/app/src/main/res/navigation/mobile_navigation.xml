@@ -47,5 +47,26 @@
         android:name="ru.mirea.sharshov.i.a.mireaproject.Profile"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/datchikFragment"
+        android:name="ru.mirea.sharshov.i.a.mireaproject.DatchikFragment"
+        android:label="fragment_datchik"
+        tools:layout="@layout/fragment_datchik" />
+    <fragment
+        android:id="@+id/cameraFragment"
+        android:name="ru.mirea.sharshov.i.a.mireaproject.CameraFragment"
+        android:label="fragment_camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/networkResourse"
+        android:name="ru.mirea.sharshov.i.a.mireaproject.NetworkResourse"
+        android:label="fragment_network_resourse"
+        tools:layout="@layout/fragment_network_resourse" />
+    <fragment
+        android:id="@+id/audioFragment"
+        android:name="ru.mirea.sharshov.i.a.mireaproject.AudioFragment"
+        android:label="fragment_audio"
+        tools:layout="@layout/fragment_audio" />
+
 
 </navigation>
